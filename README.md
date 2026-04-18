@@ -6,6 +6,9 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 #### Photo-Realism That Fools the Eye
 #### Pixel-Perfect Consistency for Commercial Use
 
+## How to use GPT Image 2
+You can experience the full features of GPT Image 2 at https://gptimage-2.co Go and try it out now!
+
 ## GPT Image 2 Advanced AI Image Capabilities
 GPT Image 2 is a game-changer that instantly crumbles competitors' dominance. It combines advanced world knowledge, native-level multilingual text rendering, thinking-powered composition, and pixel-perfect consistency into one revolutionary AI image generation tool.
 
