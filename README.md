@@ -1,5 +1,5 @@
 ## What is [GPT Image 2](https://gptimage-2.co/)
-[GPT-Image-2](https://gptimage-2.co/)  GPT Image 2 is OpenAI's next-gen AI image generator with native-level text rendering, photo-realistic quality, pixel-perfect consistency, and 4K output — a game-changer in AI image generation.
+[GPT Image 2](https://gptimage-2.co/) is OpenAI's next-gen AI image generator with native-level text rendering, photo-realistic quality, pixel-perfect consistency, and 4K output — a game-changer in AI image generation.
 
 GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation image model — a massive leap from GPT Image 1.5. It delivers native-level multilingual text rendering with zero distortion even on curved surfaces, photo-realistic quality so convincing testers asked 'Is it just downloading photos from the internet?', and pixel-perfect character consistency down to the last pixel. With advanced world knowledge for maps, anatomical diagrams, and scene physics, GPT Image 2 surpasses Google's Gemini Imagen in text accuracy and complex scenes.
 #### Native-Level Text Rendering — Zero Distortion
